@@ -13,7 +13,7 @@ Bankist landing page I just made after learning some advance JavaScript DOM mani
 
 ## Contribution
 
-This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project. You are free to fork this project and change it for your own purposes.s
+This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project. You are free to fork this project and change it for your own purposes.
 
 #### Screenshot
 
