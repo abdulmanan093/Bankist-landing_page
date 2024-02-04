@@ -17,4 +17,4 @@ This project serves as a project to show off my personal skills. I do not accept
 
 #### Screenshot
 
-<p><img align="center" src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview-2.png?raw=true"/></p>
+<p><img align="center" src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview.png?raw=true"/></p>
